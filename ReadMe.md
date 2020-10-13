@@ -6,4 +6,6 @@ JavaScript를 이용해서 Node.js를 제어해 동적으로 HTML 코드를 생�
 
 기본 설치방법, node.js runtime 사용법, node.js로 APPcat 제작까지 따라해볼 수 있는 훌륭한 튜토리얼이다.
 
+Node.js Version : v12.19.0
+
 ![nodejs](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
