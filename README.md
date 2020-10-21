@@ -14,7 +14,7 @@ JavaScript를 이용해서 Node.js를 제어해 동적으로 HTML 코드를 생�
 
 ### 🛫 Requirements
 
--   Node.js version : 12.19.0
+-   Node.js version : 12.19.0 [# Node.js v12.19.0 Docs API](https://nodejs.org/dist/latest-v12.x/docs/api/)
 -   pm2 version : 4.5.0 [# node.js 프로세스 관리자](https://pm2.keymetrics.io/)
 
 ```bash
